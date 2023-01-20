@@ -2,5 +2,3 @@ The rose is red
 The violet is blue
 unexpected EOL
 in line 32.
-
-Add extra line
